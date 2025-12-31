@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="flex flex-col items-center justify-center w-screen h-screen bg-gray-100">
       <h1 className="text-8xl md:text-9xl font-extrabold text-red-600 mb-12 text-center">
-        Non sono spotify
+        Non sono spotify🖕🏻
       </h1>
       <img
         src={foto}
