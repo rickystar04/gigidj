@@ -1,6 +1,6 @@
 // App.jsx
 import React from "react";
-import foto from "./assets/gigidj.jpeg"; // sostituisci con il percorso della tua immagine
+import foto from "./assets/gigidj.jpg"; // sostituisci con il percorso della tua immagine
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <img
         src={foto}
         alt="Immagine centrale"
-        className="w-11/12 max-w-[200px] h-auto object-cover rounded-lg shadow-xl"
+        className="w-11/12 max-w-[300px] h-auto object-cover rounded-lg shadow-xl"
       />
     </div>
   );
